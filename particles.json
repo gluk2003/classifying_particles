@@ -1,0 +1,10 @@
+{
+  "test_auc": {
+    "Electron": 0.97,
+    "Ghost": 0.91,
+    "Kaon": 0.87,
+    "Muon": 0.95,
+    "Pion": 0.91,
+    "Proton": 0.86
+  }
+}
